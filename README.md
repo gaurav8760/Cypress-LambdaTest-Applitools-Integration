@@ -8,13 +8,13 @@ Learn more about how to install and start this project with our [Cypress tutoria
 ## Getting Started With Cypress Integration With LambdaTest and Applitools
 
 ### 1. Fork this repo
-If you want to experiment with running this project in Continous Integration, you'll need to [fork](https://github.com/cypress-io/cypress-example-kitchensink#fork-destination-box) it first.
+If you want to experiment with running this project in Continous Integration, you'll need to [fork](https://github.com/gaurav8760/Cypress-LambdaTest-Applitools-Integration) it first.
 
 After forking this project in `Github`, run these commands:
 
 ```bash
 ## clone this repo to a local directory
-git clone https://github.com/<your-username>/cypress-example-kitchensink.git
+git clone https://github.com/gaurav8760/Cypress-LambdaTest-Applitools-Integration
 
 ## cd into the cloned repo
 cd Cypress-LambdaTest-Applitools-Integration
