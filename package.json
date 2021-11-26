@@ -1,0 +1,18 @@
+{
+  "name": "tutorial-cypress",
+  "version": "1.0.0",
+  "description": "This contains Applitools Cypress tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run --browser chrome --spec 'cypress/integration/examples/ultraFastGrid.spec.js'",
+    "test:ci": "cypress run --browser chrome --headless --spec 'cypress/integration/examples/ultraFastGrid.spec.js'",
+    "cypress:open": "cypress open"
+  },
+  "author": "Applitools Team <team@applitools.com> (http://www.applitools.com/)",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "@applitools/eyes-cypress": "^3.22.7",
+    "cypress": "^8.7.0"
+  }
+}
