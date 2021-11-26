@@ -32,7 +32,7 @@ npm install @applitools/eyes-cypress --save-dev
 
 ## Install LambdaTest CLI and Dependencies ##
 # install LambdaTest CLI
-npm install && npm install -g lambdatest-cypress-cli
+npm install -g lambdatest-cypress-cli
 
 # Generate LambdaTest Config
 lambdatest-cypress init
