@@ -44,7 +44,7 @@ lambdatest-cypress init
     Run Command:
     lambdatest-cypress run
 
-2. Enable the second URL in the spec.js file and run your second test. Applitools visual AI will compare the resulted screenshots of second test with the corresponsing screenshots (base images) of first test and highlight the differences if any.
+2. Enable the second URL in the spec.js file and run your second test. Applitools visual AI will compare the resulted screenshots of second test with the corresponding screenshots (base images) of first test and highlight the differences if any.
 
     Run Command:
     lambdatest-cypress run
