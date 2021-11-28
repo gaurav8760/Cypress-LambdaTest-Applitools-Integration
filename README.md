@@ -40,11 +40,13 @@ lambdatest-cypress init
 ## Running the Example Project ##
 ## Steps 
 1. Enable the first URL in the spec.js file and run your first test. This will create the screenshots of your web url on the Applitools platform. Applitools visual AI will by default consider the screenshots of first test as a base image.
-    Run Command 
+
+    Run Command:
     lambdatest-cypress run
 
 2. Enable the second URL in the spec.js file and run your second test. Applitools visual AI will compare the resulted screenshots of second test with the corresponsing screenshots (base images) of first test and highlight the differences if any.
-    Run Command 
+
+    Run Command:
     lambdatest-cypress run
 
 
